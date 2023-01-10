@@ -1,4 +1,4 @@
-# Pekar_statistics
+# Linear_regression_statistics
  Notebooks for the phototropism/gravitopism/apical hooks statistical evaluation
 *.xlsx files are input files. 
 
