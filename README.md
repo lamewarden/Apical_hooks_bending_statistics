@@ -1,4 +1,7 @@
 # Linear_regression_statistics
+
+Original paper: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17792
+
  Notebooks for the phototropism/gravitopism/apical hooks statistical evaluation
 *.xlsx files are input files. 
 
